@@ -1,0 +1,6 @@
+wc is word count
+More options are also available:
+-c is number of bytes
+-l is number of lines
+-m is number of characters
+-w number of words
